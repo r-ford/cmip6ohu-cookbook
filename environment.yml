@@ -1,4 +1,4 @@
-name: cookbook-dev
+name: cmip6ohu-dev
 channels:
   - conda-forge
 dependencies:
@@ -6,3 +6,12 @@ dependencies:
   - pip
   - pip:
       - sphinx-pythia-theme
+  - matplotlib
+  - numpy
+  - xarray
+  - intake
+  - intake-esm
+  - gcsfs
+  - nc-time-axis
+  - cmip6_preprocessing
+  - xarrayutils
