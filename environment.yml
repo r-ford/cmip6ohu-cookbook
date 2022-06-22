@@ -1,4 +1,4 @@
-name: cmip6ohu-dev
+name: cmip-ohu-dev
 channels:
   - conda-forge
 dependencies:

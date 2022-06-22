@@ -4,3 +4,4 @@ parts:
   - caption: Introduction
     chapters:
       - file: notebook-template
+      - file: intake-and-preproc
