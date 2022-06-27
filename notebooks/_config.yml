@@ -8,8 +8,9 @@ email: projectpythia@ucar.edu
 copyright: '2022'
 
 # Execute the notebooks upon building the book?
+# See https://jupyterbook.org/en/stable/content/execute.html
 execute:
-  execute_notebooks: "on"
+  execute_notebooks: cache
 
 # Add a few extensions to help with parsing content
 parse:
